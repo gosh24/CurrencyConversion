@@ -118,8 +118,4 @@ if __name__ == "__main__":
 
         with open("conversions.json", "w") as file:
             json.dump(data, file)
-
-        
-
-
-
+            
